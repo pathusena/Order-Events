@@ -1,0 +1,14 @@
+C:\Interview Projects\OrderEvents\OrderEvents\bin\Debug\net7.0\OrderEvents.exe
+C:\Interview Projects\OrderEvents\OrderEvents\bin\Debug\net7.0\OrderEvents.deps.json
+C:\Interview Projects\OrderEvents\OrderEvents\bin\Debug\net7.0\OrderEvents.runtimeconfig.json
+C:\Interview Projects\OrderEvents\OrderEvents\bin\Debug\net7.0\OrderEvents.dll
+C:\Interview Projects\OrderEvents\OrderEvents\bin\Debug\net7.0\OrderEvents.pdb
+C:\Interview Projects\OrderEvents\OrderEvents\obj\Debug\net7.0\OrderEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interview Projects\OrderEvents\OrderEvents\obj\Debug\net7.0\OrderEvents.AssemblyInfoInputs.cache
+C:\Interview Projects\OrderEvents\OrderEvents\obj\Debug\net7.0\OrderEvents.AssemblyInfo.cs
+C:\Interview Projects\OrderEvents\OrderEvents\obj\Debug\net7.0\OrderEvents.csproj.CoreCompileInputs.cache
+C:\Interview Projects\OrderEvents\OrderEvents\obj\Debug\net7.0\OrderEvents.dll
+C:\Interview Projects\OrderEvents\OrderEvents\obj\Debug\net7.0\refint\OrderEvents.dll
+C:\Interview Projects\OrderEvents\OrderEvents\obj\Debug\net7.0\OrderEvents.pdb
+C:\Interview Projects\OrderEvents\OrderEvents\obj\Debug\net7.0\OrderEvents.genruntimeconfig.cache
+C:\Interview Projects\OrderEvents\OrderEvents\obj\Debug\net7.0\ref\OrderEvents.dll
